@@ -3,6 +3,7 @@ title: "Zoom Meeting Roman Vassiliev"
 type: lead
 source: zoom
 date: 2026-07-10
+sales_lead_call: no
 ---
 
 ## Zoom Meeting Roman Vassiliev
